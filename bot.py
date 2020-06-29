@@ -6,7 +6,7 @@ import random
 from animals import Animals
 
 #config
-token = "NzI1OTUzMDgxODExOTI3MDUx.XvocQQ.uT_XUpoqUJ0w3Kcsnb_yeaBp2-k"
+token = "BOT_TOKEN"
 prefix = '~'
 
 print ("starting")
