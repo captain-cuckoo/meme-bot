@@ -8,7 +8,7 @@
 
 Replace token with your bot token in bot.py
 ```token = "BOT_TOKEN"```
-and create a imgflip account from https://imgflip.com/signup (their api fucking sucks) and put in the username and password in meme.py 
+and create a imgflip account from https://imgflip.com/signup and put in the username and password in meme.py (their api fucking sucks)
 ```
 username = 'username' #imgur account username
 password = 'password' #imgur account password
